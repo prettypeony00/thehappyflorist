@@ -1,0 +1,38 @@
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+body {
+  background-color: white;
+}
+
+#navbar-iframe {display: none; height: 0;}
+
+blockquote{background-color:transparent; text-align:left; padding:5px; border:1px solid #eee;}
+blockquote:hover{font-style: italic;}
+a:link,a:active,a:visited{color: #666; text-decoration:none; padding:2px; font-family:georgia; font-style:italic;}
+a:hover{cursor:pointer; color:#D66876;}
+
+.title{top:132px; left:344px; position:absolute; color:#D66876; font-family:georgia; font-size:20px; letter-spacing:2px; text-transform:lowercase;}
+.bigborder{padding:20px; padding-top:102px; padding-right:400px; top:152px; left:670px; position:absolute; background-color:#eee;}
+
+.navi4:hover{background-color:#f6f6f6;}
+
+.posts{padding:5px; font-family:arial; font-size:10px; color:#666; text-align:left;}
+
+i, em{text-decoration:oblique;}
+u{}
+
+img{padding:10px; border:1px solid #eee; background-color:#fff; -webkit-transition-duration: .50s;}
+img:hover{filter:alpha(opacity=80) moz-opacity:.8; opacity:.8;}
+
+
+
+
+
+</body>
+</head>
+</html>
